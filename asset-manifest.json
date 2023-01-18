@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FIPortal/static/css/main.b22627de.css",
+    "main.js": "/FIPortal/static/js/main.8ecfb2c6.js",
+    "index.html": "/FIPortal/index.html",
+    "main.b22627de.css.map": "/FIPortal/static/css/main.b22627de.css.map",
+    "main.8ecfb2c6.js.map": "/FIPortal/static/js/main.8ecfb2c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b22627de.css",
+    "static/js/main.8ecfb2c6.js"
+  ]
+}
